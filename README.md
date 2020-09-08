@@ -1,0 +1,1 @@
+We built a convolutional neural network in Python using TensorFlow library to detect the diseases in Potato and Tomato plants by the image of their leaf and developed an Android Application which works completely offline to deploy this model. 
